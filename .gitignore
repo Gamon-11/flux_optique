@@ -1,0 +1,14 @@
+# ROS 2 Colcon workspace generated directories
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# OS / Editor temporary files
+.DS_Store
+.vscode/
+.idea/
+
+# Rosbag & Dataset log files
+*.db3
+*.mcap
+*.bag
